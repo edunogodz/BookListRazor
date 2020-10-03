@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.Extensions.Logging;
 
-namespace BookListRazor.Pages
+namespace BookListRazorAspCoreWebAPP.Pages
 {
     public class IndexModel : PageModel
     {
@@ -21,6 +21,5 @@ namespace BookListRazor.Pages
         {
 
         }
-
     }
 }
